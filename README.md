@@ -18,3 +18,5 @@ Centered Google logo with input search bar
 Links for special searches and company information
 
 
+##Screenshots
+![image](https://github.com/user-attachments/assets/010c03bf-6ab2-426e-8b3d-6f874b94a9c1)
